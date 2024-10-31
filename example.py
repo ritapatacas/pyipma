@@ -4,7 +4,8 @@ import aiohttp
 from pyipma.api import IPMA_API
 from pyipma.location import Location
 
-LAT, LON = 39.663396, -8.813334
+LAT, LON = 39.940438, -8.168129
+
 
 import logging
 logging.basicConfig()
